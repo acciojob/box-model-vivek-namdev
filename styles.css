@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+#main{
+	border : 2px solid black;
+	border-radius : 50px;
+	display : flex;
+	justify-content: space-around;
+	align-content: center;
+	align-items: center;
+	height:40vh;
+	/* background-color: #d3d3d3 */
+	background-color: #d3d3d3 ;
+	width:80vh;
+}
+ #a{
+    height : 20vh;	
+	width:20vh;
+	/* box-sizing: border-box; */
+	background-color: green;
+	border-radius: 50%
+	 /* color: red; */
+}
+#b{
+        height : 20vh;	
+	width:20vh;
+	/* box-sizing: border-box; */
+	background-color: yellow;
+	border-radius: 50%
+	 /* color: red; */
+}
+#c{
+    height : 20vh;	
+	width:20vh;
+	background-color: red;
+	border-radius: 50%
+
+}
